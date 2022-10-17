@@ -1,6 +1,6 @@
 # automating_formy
 
-The goal of this project is to fully write automated test cases for the following website <https://formy-project.herokuapp.com/>.
+The goal of this project is to fully write automated test cases for the following website: <https://formy-project.herokuapp.com/>.
 
 Automating and testing this website is a followup to my last project: <https://github.com/MariusB5/automating_the_internet>.
 
