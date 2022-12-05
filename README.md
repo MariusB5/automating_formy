@@ -1,6 +1,6 @@
-# automating_formy
+# automation_testing_practice
 
-The goal of this project is to fully write automated test cases for the following website: <https://formy-project.herokuapp.com/>.
+The goal of this project is to fully write automated test cases for the following website: <https://testautomationpractice.blogspot.com/>.
 
 The technology stack used for this project is the following:
 
